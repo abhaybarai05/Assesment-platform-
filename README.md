@@ -9,6 +9,8 @@
 ---
 
 ## 📌 Overview  
+"The next olympian might be sitting in a remote sensing village but without the right platform the talent could remain discovered "
+
 Identifying and nurturing athletic talent in a country as vast and diverse as India is a significant challenge. Many aspiring athletes, especially from **rural and remote areas**, lack access to standardized assessment facilities or opportunities to showcase their potential.  
 
 This project proposes an **AI-powered, mobile-first solution** that enables athletes to **self-assess, record, and submit their fitness performance** using just a smartphone. With **on-device AI/ML video analysis, cheat detection, and secure data submission**, the platform ensures **fair, transparent, and scalable assessments**.  
